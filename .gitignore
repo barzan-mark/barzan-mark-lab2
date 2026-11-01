@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.fuse_hidden*
+*.db
+*.db-shm
+*.db-wal
+.idea/
